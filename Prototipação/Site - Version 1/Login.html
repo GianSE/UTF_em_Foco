@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Login</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css"  href="./CSS/styles.css" />
+    <link rel="SHORTCUT ICON" href="./Imagens/utf.png">
+  </head>
+  <body>
+    <div class="header">
+     <center> <img src="./Imagens/utfpr.png"></center>
+    </div>
+    <ul class="menu"> <!-- Esse é o 1 nivel ou o nivel principal -->
+      <li><a href="Index.html">Home</a></li>
+      <li><a>Acadêmico</a>
+        <ul class="submenu-1"> <!-- Esse é o 2 nivel ou o primeiro Drop Down -->
+          <li><a href="Extensao.html">Extensão</a></li>
+          <li><a href="Tamanho.html">Palestras</a></li>
+          <li><a href="Peso.html">Editais</a></li>
+          <li><a href="Cor.html">Cursos</a></li>
+          <li><a href="Estilo.html">Competições</a></li>
+          <li><a href="Variante.html">Pesquisa</a></li>
+          <li><a href="FonteFace.html">Intercâmbio</a></li>
+          <li><a href="FontFamily.html">Pós-Graduação</a></li>
+        </ul>
+      </li>
+      <li><a>Cultural</a>
+		<ul class="submenu-1"> <!-- Esse é o 2 nivel ou o primeiro Drop Down -->
+			<li><a href="Alinhamento.html">Festival</a></li>
+			<li><a href="Decoração.html">Comunitário</a></li>
+			<li><a href="Espaço.html">Beneficente</a></li>
+			<li><a href="Capitalização.html">Exposição</a></li>
+			<li><a href="Recuo.html">Esporte</a></li>
+		</ul>
+      <li><a>Alunos</a>
+        <ul class="submenu-1">
+          <li><a href="Contraste.html">Moradia</a></li>
+          <li><a href="Background.html">Festas</a></li>
+        </ul>
+        <li><a href="Login.html">Login</a></li>
+    </ul> 
+    <div class="row">
+    <div class="left">
+        <div class="contentform">
+        <form id="cadastro" name="cadastro" method="post" action="cadastroBasico.php">
+                    <legend class="form">Cadastro:</legend>
+              <tr> <!--Todos os maxlength foram setados de acordo com o máximo de caracteres dos items do clientes.SQL -->
+                <td class = "formname">RA:</td> <br><!--Digitar o nome do usuário, tipo text, campo obrigatório -->
+                <td width="546"><input name="ra" type="text" id="ra" size="7" maxlength="7" required="required" placeholder="Digite seu RA"
+                    oninvalid="this.setCustomValidity('Não Deixe em Branco');" 
+                    placeholder="Digite seu nome" 
+                    oninput="this.setCustomValidity('');" />
+                  <span class="style1">*</span></td>
+              </tr>
+              <br><br>
+              <tr>
+                <td width="69">Email:</td> <br><!--Digitar o email do usuário, tipo email(precisa ter o @), campo obrigatório -->
+                <td width="546"><input name="email" type="email" id="email" size="70" maxlength="60" required="required" placeholder="Digite seu e-mail"
+                    oninvalid="this.setCustomValidity('Não Deixe em Branco');" 
+                    placeholder="Digite seu nome" 
+                    oninput="this.setCustomValidity('');" />
+                  <span class="style1">*</span></td>
+              </tr>
+              <br><br>
+              <tr>
+                <td width="69">Senha:</td> <br><!--Digitar a senha do usuário, tipo password(os caracteres aparecem como *), campo obrigatório -->
+                <td width="546"><input name="senha" type="password" id="senha" size="70" maxlength="20" required="required" placeholder="Digite sua senha"
+                    oninvalid="this.setCustomValidity('Não Deixe em Branco');" 
+                    placeholder="Digite seu nome" 
+                    oninput="this.setCustomValidity('');" />
+                  <span class="style1">*</span></td>
+              </tr>
+              <br><br>
+              <tr>
+                <td colspan="2"><p>
+                  <input name="cadastrar" type="submit" id="cadastrar" value="Cadastrar"/> 
+                  <br>
+                    <input name="limpar" type="reset" id="limpar" value="Limpar Campos" />
+                    <br>
+                    <span class="style1"><i>Campos com * são obrigatórios</i></span>   
+              </tr>
+          </form>
+          </div>
+          </div>
+          <div class="right">
+            <div class="contentform">
+            <form id="cadastro" name="cadastro" method="post" action="cadastroBasico.php">
+                        <legend class="form">Login:</legend>
+                  <tr> <!--Todos os maxlength foram setados de acordo com o máximo de caracteres dos items do clientes.SQL -->
+                    <td class = "formname">RA:</td> <br><!--Digitar o nome do usuário, tipo text, campo obrigatório -->
+                    <td width="546"><input name="ra" type="text" id="ra" size="7" maxlength="7" required="required" placeholder="Digite seu RA"
+                        oninvalid="this.setCustomValidity('Não Deixe em Branco');" 
+                        placeholder="Digite seu nome" 
+                        oninput="this.setCustomValidity('');" />
+                      <span class="style1">*</span></td>
+                  </tr>
+                  <br><br>
+                  <tr>
+                    <td width="69">Senha:</td> <br><!--Digitar a senha do usuário, tipo password(os caracteres aparecem como *), campo obrigatório -->
+                    <td width="546"><input name="senha" type="password" id="senha" size="70" maxlength="20" required="required" placeholder="Digite sua senha"
+                        oninvalid="this.setCustomValidity('Não Deixe em Branco');" 
+                        placeholder="Digite seu nome" 
+                        oninput="this.setCustomValidity('');" />
+                      <span class="style1">*</span></td>
+                  </tr>
+                  <br><br>
+                  <tr>
+                    <td colspan="2"><p>
+                      <input name="cadastrar" type="submit" id="cadastrar" value="Cadastrar" /> 
+                      <br>
+                        <input name="limpar" type="reset" id="limpar" value="Limpar Campos" />
+                        <br>
+                        <span class="style1"><i>Campos com * são obrigatórios</i></span>    
+                  </tr>
+              </form>
+              </div>
+              </div>
+              </div>
+    <div class="footer">
+      <center><img src="./Imagens/utfpr.png"></center>
+    </div>
+  </body>
+</html>
