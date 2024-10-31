@@ -1,4 +1,4 @@
-# UTF_em_# UTF em Foco
+# UTF em Foco
 
 ## Objetivo do Projeto
 O projeto **UTF em Foco** visa unificar acontecimentos e notícias que ocorrem na UTF de Cornélio Procópio, oferecendo fácil acesso a um portal interativo, responsivo e sempre atualizado. O objetivo é dar visibilidade igualitária a todos os projetos da universidade.
@@ -21,12 +21,12 @@ O UTF em Foco está disponível para acesso direto pelo navegador, sem necessida
 Este projeto não está aberto para contribuições externas.
 
 ## Autor
-Vitor Hugo - VitorAmadeu
-Gabriel - gabrieltrigolo 
-Emily -
-Gian -
-Matheus -
-Pedro Henrique - 
+Vitor Hugo - VitorAmadeu  
+Gabriel - gabrieltrigolo   
+Emily -  
+Gian -  
+Matheus -  
+Pedro Henrique -   
 
 ## Licença do Projeto
 
