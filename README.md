@@ -26,7 +26,7 @@ Gabriel - gabrieltrigolo
 Emily -  
 Gian -  
 Matheus -  
-Pedro Henrique -   
+Pedro Henrique - DevPEDROCN  
 
 ## Licença do Projeto
 
