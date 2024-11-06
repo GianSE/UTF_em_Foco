@@ -23,7 +23,7 @@ Este projeto não está aberto para contribuições externas.
 ## Autor
 Vitor Hugo - VitorAmadeu  
 Gabriel - gabrieltrigolo   
-Emily -  
+Emily - Emily-UTF
 Gian -  
 Matheus -  
 Pedro Henrique - DevPEDROCN  
