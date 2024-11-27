@@ -26,7 +26,6 @@ Gabriel - gabrieltrigolo
 Emily - Emily-UTF
 Gian -  
 Matheus -  MatheusMeneguim
-
 Pedro Henrique - DevPEDROCN  
 
 ## Licença do Projeto
