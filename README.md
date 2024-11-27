@@ -25,7 +25,7 @@ Vitor Hugo - VitorAmadeu
 Gabriel - gabrieltrigolo   
 Emily - Emily-UTF
 Gian -  
-Matheus - MatheusMeneguim
+Matheus -  MatheusMeneguim
 Pedro Henrique - DevPEDROCN  
 
 ## Licença do Projeto
