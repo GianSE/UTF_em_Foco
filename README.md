@@ -22,10 +22,15 @@ Este projeto não está aberto para contribuições externas.
 
 ## Autor
 Vitor Hugo - VitorAmadeu  
+
 Gabriel - gabrieltrigolo   
+
 Emily - Emily-UTF
-Gian -  
+
+Gian - GianSE  
+
 Matheus -  MatheusMeneguim
+
 Pedro Henrique - DevPEDROCN  
 
 ## Licença do Projeto
