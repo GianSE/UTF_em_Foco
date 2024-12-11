@@ -4,18 +4,17 @@
 
 | ID | Requisito NF | Categoria/Tipo | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: |:-------------: | :--------: | :-----------------: |
-| RF01 | Implementação do sistema em HTML, CSS, JavaScript, PHP. | Produto/Usabilidade | Alta | RNF12 |
-| RF02 | O sistema se comunica com o banco SQL Server | Produto/eficiência | Alta | RF8 |
-| RF03 | O sistema é executável em qualquer plataforma. | Organizacionais/Implementação | Alta | - |
-| RF04 | O sistema contará com links e informações que serão atualizadas constantemente. | Produto/Usabilidade | Alta | RNF12 |
-| RF05 | A manutenção do sistema só poderá ser feita por usuário permitidos. | Produto/eficiência | Alta | RF8 |
-| RF06 | Segurança para o usuário através de senhas. | Organizacionais/Implementação | Média | - |
-| RF07 | Fácil de identificar e localizar cada página | Organizacionais/Implementação | Média | - |
-| RF08 | Site responsivo | Organizacionais/Implementação | Alta | - |
-| RF09 | Protocolo HTTPS | Organizacionais/Implementação | Alta | - |
-| RF10 | O site deve ser rápido para voltar caso fique fora do ar | Organizacionais/Implementação | Média | - |
-| RF11 | Site responsivo |  Organizacionais/Implementação | Alta | - | - |
-| RF12 | As consultas ao sistema devem ser respondidas em menos de três segundos | Produto/Eficiência |  Alta | - |
+| RNF01 | Implementação do sistema em HTML, CSS, JavaScript, PHP. | Produto/Usabilidade | Alta | RNF12 |
+| RNF02 | O sistema se comunica com o banco SQL Server | Produto/eficiência | Alta | RF8 |
+| RNF03 | O sistema é executável em qualquer plataforma. | Organizacionais/Implementação | Alta | - |
+| RNF04 | O sistema contará com links e informações que serão atualizadas constantemente. | Produto/Usabilidade | Alta | RNF12 |
+| RNF05 | A manutenção do sistema só poderá ser feita por usuário permitidos. | Produto/eficiência | Alta | RF8 |
+| RNF06 | Segurança para o usuário através de senhas. | Organizacionais/Implementação | Média | - |
+| RNF07 | Fácil de identificar e localizar cada página | Organizacionais/Implementação | Média | - |
+| RNF08 | Site responsivo | Organizacionais/Implementação | Alta | - |
+| RNF09 | Protocolo HTTPS | Organizacionais/Implementação | Alta | - |
+| RNF10 | O site deve ser rápido para voltar caso fique fora do ar | Organizacionais/Implementação | Média | - |
+| RNF11 | As consultas ao sistema devem ser respondidas em menos de três segundos | Produto/Eficiência |  Alta | - |
 
 
 <div style="text-align: center">
