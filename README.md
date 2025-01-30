@@ -12,7 +12,7 @@ O projeto **UTF em Foco** visa unificar acontecimentos e notícias que ocorrem n
 - **Interação entre Alunos**: Oferece um espaço para que os alunos interajam, compartilhando e comentando as publicações.
 
 ## Instalação e Acesso
-O projeto UTF em Foco é uma página web que pode ser acessada diretamente pelo navegador através do link: [coloque_o_link_aqui].
+O projeto UTF em Foco é uma página web que pode ser acessada diretamente pelo navegador através do link: https://gianse.github.io/UTF_em_Foco/index.html
 
 ## Como Rodar o Projeto
 O UTF em Foco está disponível para acesso direto pelo navegador, sem necessidade de comandos adicionais. Basta acessar o link fornecido.
