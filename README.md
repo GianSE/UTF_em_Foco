@@ -21,17 +21,17 @@ O UTF em Foco está disponível para acesso direto pelo navegador, sem necessida
 Este projeto não está aberto para contribuições externas.
 
 ## Autor
-Vitor Hugo - VitorAmadeu   Ra: 2503735
+Vitor Hugo - VitorAmadeu - Ra: 2503735
 
-Gabriel - gabrieltrigolo   
+Gabriel - gabrieltrigolo - Ra: 2267608 
 
-Emily - Emily-UTF  Ra: 2417707
+Emily - Emily-UTF - Ra:2417707
 
-Gian - GianSE   Ra:2503638
+Gian - GianSE - Ra:2503638
 
-Matheus -  MatheusMeneguim
+Matheus - MatheusMeneguim - Ra: 2564823
 
-Pedro Henrique - DevPEDROCN   Ra: 2312344
+Pedro Henrique - DevPEDROCN - Ra: 2312344
 
 ## Licença do Projeto
 
